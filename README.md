@@ -1,4 +1,4 @@
-# SlimeReducer
+# SlimeReducer V1.1
 A Spigot plugin to reduce or remove slime spawns. This plugin is meant for superflat, as slimes can be very annoying especially late game. 
 Made in VS code with Maven. <br>
 Config class by https://www.youtube.com/@KodySimpson
