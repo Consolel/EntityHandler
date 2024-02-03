@@ -1,0 +1,16 @@
+# EntityHandler v1.2 made by Console! Last updated: 3/1/2024
+# Discord.gg/geM5US4FFd for questions and concerns.
+# https://www.spigotmc.org/resources/slime-reducer.114561/
+
+# Enable or Disable plugin
+IsEnabled: true
+
+# Entitylist: How many entities of one type should it warn you for? 
+WarningAmount: 50
+
+# Spawn Reduction: Percentage to reduce specific mobs
+# Get names from https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+EntityReductions:
+  SLIME: 0
+  PHANTOM: 0
+  BAT: 0

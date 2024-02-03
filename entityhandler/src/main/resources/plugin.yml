@@ -1,0 +1,32 @@
+name: EntityHandler
+main: com.console.EntityHandler
+load: STARTUP 
+author: Console
+website: discord.gg/geM5US4FFd
+permission-message: No Permission!
+version: 1.2
+api-version: 1.15
+commands: 
+  EntityList:
+    usage: /Entitylist +- <world>
+    description: Get the entity list for a world.
+    permission: EntityHandler.Admin
+  Info:
+    usage: /discord
+    description: Info about me and the plugin!~
+    permission: everyone
+  ReduceMob:
+    usage: /reducemob <mobenum> <percentage>
+    description: reduce mob by percentage.
+    permission: EntityHandler.Admin
+  Reload:
+    usage: /reload
+    description: Reloads Plugin Config.
+    permission: EntityHandler.Admin
+permissions:
+  EntityHandler.Admin:
+    description: Allows protected commands.
+    default: op
+  everyone:
+    description: everyone
+    default: true
