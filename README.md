@@ -1,9 +1,7 @@
-# SlimeReducer V1.1
-A Spigot plugin to reduce or remove slime spawns. This plugin is meant for superflat, as slimes can be very annoying especially late game. 
-Made in VS code with Maven. <br>
-Config class by https://www.youtube.com/@KodySimpson
-
-Permissions: SlimeReducer.Admin inhereted by OP <br>
-Commands: /setreduction 0-100, /slimeinfo, /discord, /reload. <br>
-Default Value: 50% <br>
+# EntityHandler V1.2
+A Spigot/Bukkit plugin for handling entities! View how many entities in a world with a easy to read list in the chat, and reduce specific mob spawns based on your needs.
+Made in VS code with maven. <br>
 Questions, Concerns: Discord.gg/geM5US4FFd
+
+Permissions: EntityHandler.Admin - Inherited by OP
+Commands: /info, /entitylist +- <world>, /reducemob <mob> <percentage>, /reload
