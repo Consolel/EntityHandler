@@ -3,5 +3,5 @@ A Spigot/Bukkit plugin for handling entities! View how many entities in a world 
 Made in VS code with maven. <br>
 Questions, Concerns: Discord.gg/geM5US4FFd
 
-Permissions: EntityHandler.Admin - Inherited by OP
+Permissions: EntityHandler.Admin - Inherited by OP <br>
 Commands: /info, /entitylist +- <world>, /reducemob <mob> <percentage>, /reload
